@@ -7,10 +7,11 @@ This is an example to show different parts of the Git repository and various com
 asjdlksadksaldjskadkladjdlas
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, more demos comming to this.
 
 ## Deployment
 
+This is a simple web project, deplyment can be on any web server or even local file sytem.
 
 ## How To Contribute
 
