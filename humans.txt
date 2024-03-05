@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wil arias willarias@training.com
 
 # THANKS
 
