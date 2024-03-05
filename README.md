@@ -14,4 +14,4 @@ Sample website with plenty of files for demos, more demos comming to this.
 This is a simple web project, deplyment can be on any web server or even local file sytem.
 
 ## How To Contribute
-
+This is going to be really simple you need to..
