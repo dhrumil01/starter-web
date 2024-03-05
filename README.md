@@ -15,3 +15,6 @@ This is a simple web project, deplyment can be on any web server or even local f
 
 ## How To Contribute
 This is going to be really simple you need to..
+
+### Copyright
+2023 gitwill.training 
