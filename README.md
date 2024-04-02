@@ -17,4 +17,4 @@ This is a simple web project, deplyment can be on any web server or even local f
 This is going to be really simple you need to..
 PLease fork this repository and then issue pull request for review.
 ### Copyright
-2023 gitwill.training 
+2023 gitwill.training. Al rights revered
