@@ -15,3 +15,6 @@ Sample website with plenty of files for demos
 ##how to cont
 
 #new change
+
+#copyright
+git traning
