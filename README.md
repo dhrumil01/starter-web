@@ -9,7 +9,7 @@ Sample website with plenty of files for demos
 #starter project
 
 ##introductiom
-
+ copywite noticd
 ##purpose
  
 ##how to cont
