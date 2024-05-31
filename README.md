@@ -15,3 +15,6 @@ Ah soon it will be...
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Copyright
+014 Git.training
