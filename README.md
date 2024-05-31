@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 learning how to use git and gitlab together.
+Making some changes or puting this text where while the changes made in other branch were not yet merged.
 
 ## Introduction
 A bit more of text here.
