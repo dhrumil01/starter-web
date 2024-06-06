@@ -18,4 +18,4 @@ Ah soon it will be...
 Sample website with plenty of files for demos
 
 ## Copyright
-014 Git.training
+014 Git.training All rights reserved
