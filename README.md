@@ -15,3 +15,7 @@ example
 
 more stuff
 even more stuff
+
+## Copyright
+
+Git.Training.
