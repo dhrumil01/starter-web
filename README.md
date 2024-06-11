@@ -10,7 +10,7 @@ A bit more of text here.
 
 ## How to Contribute
 Just more and more dummytext.
-
+Do some chnages 
 ## Deployment
 Ah soon it will be...
 ## Purpose
