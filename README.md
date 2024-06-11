@@ -9,7 +9,7 @@ Sample website with plenty of files for demos; addition
 
 ## How to Contribute
 
-example
+fork this repo then add pull requests for review.
 
 ## Deployment
 
