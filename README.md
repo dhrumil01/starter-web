@@ -9,6 +9,8 @@ Sample website with plenty of files for demos; addition
 
 adding stuff for example
 
+making changes on feature branch
+
 ## How to Contribute
 
 fork this repo then add pull requests for review.
