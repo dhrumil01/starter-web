@@ -22,4 +22,4 @@ even more stuff
 
 ## Copyright
 
-Git.Training.
+Git.Training. All rights reserved.
