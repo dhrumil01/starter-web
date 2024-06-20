@@ -4,12 +4,15 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	sydney scalzo
 
 # THANKS
 
-    <name>
+    to all
+	leave a review!
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	hello
