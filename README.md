@@ -21,3 +21,6 @@ Sample website with plenty of files for demos
 # Copyright
 
 2024 Git.Training
+
+# New Dev changes
+I am a new dev and i made changes to this file
