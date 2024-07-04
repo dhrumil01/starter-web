@@ -2,3 +2,4 @@ Should not be tracked
 Updated this file
 This is now being tracked
 Updating this file on newbranch2
+Added a new copyright line
