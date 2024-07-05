@@ -8,4 +8,3 @@ Testing rebashing from new branch "myfeature"
 Adding changes before rebase conflict
 dasd
 asdasd
-asdad
