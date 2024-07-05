@@ -8,5 +8,4 @@ Testing rebashing from new branch "myfeature"
 Adding changes before rebase conflict
 dasd
 asdasd
-
-A new developer making a change on remote newfile.txt
+This is a local change
