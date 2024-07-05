@@ -5,3 +5,4 @@ Updating this file on newbranch2
 Added a new copyright line
 Added a new line to test automatic merges
 Testing rebashing from new branch "myfeature"
+Adding changes before rebase conflict
