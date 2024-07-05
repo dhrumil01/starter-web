@@ -24,3 +24,4 @@ Sample website with plenty of files for demos
 
 # New Dev changes
 I am a new dev and i made changes to this file
+Im adding a new text for Rebasing test
