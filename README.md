@@ -26,3 +26,4 @@ Sample website with plenty of files for demos
 I am a new dev and i made changes to this file
 Im adding a new text for Rebasing test
 Adding a new line after rebase
+Added a new line for stash
