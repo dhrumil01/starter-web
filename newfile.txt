@@ -9,3 +9,4 @@ Adding changes before rebase conflict
 dasd
 asdasd
 This is a local change
+A new change for stash
