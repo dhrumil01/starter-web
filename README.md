@@ -28,4 +28,4 @@ Im adding a new text for Rebasing test
 Adding a new line after rebase
 Added a new line for stash
 Adding emergency fix
-
+Adding a new line for multiple stash example
