@@ -11,3 +11,4 @@ asdasd
 This is a local change
 A new change for stash
 A new line for stashing into a branch
+Added a new line for comparing tags
