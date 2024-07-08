@@ -29,3 +29,4 @@ Adding a new line after rebase
 Added a new line for stash
 Adding emergency fix
 Adding a new line for multiple stash example
+I am editing this file from GitHub
