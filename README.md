@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work, and more
 ## Purpose
 
 Sample website with plenty of files for demos
+Emergency fix
 
 ## How to Contribute
 Fork Repository and issue pull request
