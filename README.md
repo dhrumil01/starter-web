@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 
 ## Training and Learning
 
-Multi purpose guide
+Git guide
