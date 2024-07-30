@@ -15,4 +15,4 @@ Git guide
 
 ### Copyright
 
-Copy right
+Copyright RESERVED 2024
