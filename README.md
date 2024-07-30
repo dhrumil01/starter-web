@@ -11,3 +11,7 @@ Sample website with plenty of files for demos
 ## Training and Learning
 
 Git guide
+
+### Copyright
+
+Copy right
