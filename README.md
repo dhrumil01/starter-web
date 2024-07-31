@@ -16,4 +16,4 @@ Git guide
 
 ### Copyright
 
-Copyright RESERVED 2024, all Rights Reserved
+Copyright RESERVED 2024, all Rights Reserved FOR ME
