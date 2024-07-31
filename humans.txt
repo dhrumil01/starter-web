@@ -3,11 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    JuanMa	juanma@hotmail.com	@juanma
 
 # THANKS
 
-    <name>
+    Thanks to all
+please leave a review 5/5
 
 # TECHNOLOGY COLOPHON
 
