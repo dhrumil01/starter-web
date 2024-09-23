@@ -9,5 +9,6 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## Deployment
+Recommended to use jenkins for deploys
 
 ## How to contribute
