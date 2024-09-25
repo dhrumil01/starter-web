@@ -13,6 +13,8 @@ Sample website with plenty of files for demos plus real live projects
 Recommended to use jenkins for deploys
 
 ## How to contribute
+Please fork this repo
+
 
 ### Copyright
 GIT TRAINING 2024
