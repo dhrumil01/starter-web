@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 ADDING A LINE FOR REBASING
-
+so i add another one from myfeature branch
 ## Introduction
 This is for git beginners
 
