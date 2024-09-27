@@ -18,4 +18,4 @@ Please fork this repo
 
 
 ### Copyright
-GIT TRAINING 2024
+GIT TRAINING 2024. aLL RIGHTS RESERVED
