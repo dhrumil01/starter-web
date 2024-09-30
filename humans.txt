@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aydin maydin @notwitter
 
 # THANKS
 
