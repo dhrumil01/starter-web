@@ -16,6 +16,8 @@ Deployment section. Yes!
 
 ## How To Contribute
 
+Please fork this repository.
+
 ### Copyright
 
 2024 Aydin.
