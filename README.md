@@ -15,3 +15,7 @@ As a purpose, it's for purpose.
 Deployment section. Yes!
 
 ## How To Contribute
+
+### Copyright
+
+2024 Aydin.
