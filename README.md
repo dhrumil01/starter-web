@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple project to learn Git & GitHub smothly. Adding a line for example. And this is the example from myfeature branch.
+This is a simple project to learn Git & GitHub smothly. Updating line for Stash.
 
 ## Introduction
 
