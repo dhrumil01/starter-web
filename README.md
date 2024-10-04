@@ -20,4 +20,4 @@ Please fork this repository.
 
 ### Copyright
 
-2024 Aydin.
+2024 Aydin. All Rights Reserved
