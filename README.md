@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple project to learn Git & GitHub smothly.
+This is a simple project to learn Git & GitHub smothly. Adding a line for example.
 
 ## Introduction
 
