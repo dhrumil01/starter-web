@@ -3,13 +3,15 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aydin maydin @notwitter
 
 # THANKS
 
-    <name>
+    Thanks to my all Udemy Teachers!
+	Okay ButItIsTheLastTime
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git
