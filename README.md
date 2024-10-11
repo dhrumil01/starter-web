@@ -1,4 +1,4 @@
-# Starter Web Project
+# Starter Web Repo
 
 This is a simple project to learn Git & GitHub smothly. Updating line for Stash.
 
