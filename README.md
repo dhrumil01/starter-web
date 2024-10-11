@@ -8,7 +8,7 @@ This is an example to show difference parts of the Git repository.
 
 ## Purpose
 
-As a purpose, it's for purpose.
+Sample website with plenty of file for demos
 
 ## Deployment
 
