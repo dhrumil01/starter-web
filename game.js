@@ -1,17 +1,26 @@
 class Game {
     #deltaT;
-    player;
+    player = {
+        name: "Default",
+        apperance: "Normal",
+        hoursPlayed: function() {
+            return new Date.toString();
+        }
+    };
     level;
 
     static {
         if(level === "hard") { 
-            this.level = 100;
+            this.createObstacles();
+        } else {
+            this.generateCorrectPath();
         }
     }
+
     constructor(level, deltaT, player) {
         this.player = player;
         this.level = level;
-        this.deltaT = deltaT;
+        this.#deltaT = deltaT;
     }
 
     get player() {
@@ -21,4 +30,9 @@ class Game {
     set player(newPlayer) {
         this.player = newPlayer;
     } 
+
+
+    static createObstacles(){}
+    static generateCorrectPath(){}
 }
+
