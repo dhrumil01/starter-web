@@ -1,2 +1,0 @@
-Just to test the ls-files
-Self-testing
