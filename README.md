@@ -14,3 +14,7 @@ THis is a simple web project, deployment acan be on any web server or even local
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training.v2
