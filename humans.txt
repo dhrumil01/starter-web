@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Tudor Tanase tudor@git.training @isaki
+	Please leave a review if you want to.
+	
 # THANKS
 
-    <name>
+    Thnaks to binding.
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+
+	Git technology
