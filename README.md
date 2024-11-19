@@ -6,3 +6,4 @@ first time forking on git and GitHub
 ## Purpose
 
 Sample website with plenty of files for demos
+still learning from basics
