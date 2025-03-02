@@ -10,6 +10,4 @@ Sample website with plenty of files for demos
 
 ## How To Contribue
 
-hiiii hiiii
-
-heeee heeee
+test the fetch 
